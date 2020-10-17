@@ -291,6 +291,9 @@ int main()
 	}
 
 	free(game);
+    
+    printf("Digite qualquer tecla");
+    scanf("%c", &entrada);
 
 	return 0;
 }
