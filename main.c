@@ -51,7 +51,7 @@ int main()
 				exit(0);
 
 			default :
-				printf("comando invalido");			
+				printf("comando invalido\n");			
 		}
 	}
 
@@ -80,7 +80,7 @@ int main()
 				exit(0);
 
 			default :
-				printf("comando invalido");			
+				printf("comando invalido\n");			
 		}
 	}
 
