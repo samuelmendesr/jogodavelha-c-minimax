@@ -59,7 +59,7 @@ int main()
 
 	while(i)
 	{
-		printf("Deseja começar?[s/n]:~> ");
+		printf("Deseja comecar?[s/n]:~> ");
 		scanf("%c", &entrada);
 
 		getchar();
